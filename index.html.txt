@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Page</title>
+</head>
+<body>
+    <h1>Thông tin thanh toán</h1>
+    <p>Số tài khoản ngân hàng: <span id="bank-account">99999665566</span></p>
+</body>
+</html>fs
